@@ -49,5 +49,5 @@ A modern social media platform with real-time chat, built using the MERN stack, 
 
 ## 🌐 Live Demo
 
-[Social Media App Live] ([Link] (https://thread-application.onrender.com))  
+[Social Media App Live] (( [Link] https://thread-application.onrender.com))  
 *Note: Initial load may take a few seconds due to free hosting.*
